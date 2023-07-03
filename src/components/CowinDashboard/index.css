@@ -1,0 +1,23 @@
+.bg {
+  background-color: #161625;
+  padding-left: 40px;
+  padding-right: 40px;
+  padding-top: 0px;
+  min-height: 100vh;
+}
+
+.logo {
+  display: flex;
+  align-items: center;
+}
+.logo-img {
+  width: 50px;
+  margin-right: 15px;
+}
+
+.heading{
+    color:#2cc6c6;
+}
+.heading2{
+    color:#cbd5e1;
+}
